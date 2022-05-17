@@ -1,4 +1,4 @@
-// This function counts all the occurring characters in a string.
+// This function counts each character in a string.
 function count (string) {  
     let chars = {}
     string.split("").forEach(c => {
